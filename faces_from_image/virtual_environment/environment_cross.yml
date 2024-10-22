@@ -1,0 +1,13 @@
+name: faces_from_image
+channels:
+- conda-forge
+dependencies:
+- ipykernel
+- jupyter
+- jupyterlab
+- matplotlib
+- nb_conda_kernels
+- opencv
+- pillow
+- python
+

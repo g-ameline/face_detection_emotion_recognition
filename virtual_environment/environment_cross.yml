@@ -1,0 +1,17 @@
+name: emotions_from_faces_from_video
+channels:
+- conda-forge
+dependencies:
+- ipykernel
+- jupyter
+- jupyterlab
+- keras
+- matplotlib
+- nb_conda_kernels
+- numpy
+- opencv
+- pandas
+- python
+- tensorflow-cpu
+- yt-dlp
+

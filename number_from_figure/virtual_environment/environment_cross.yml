@@ -1,0 +1,10 @@
+name: figure
+channels:
+- conda-forge
+dependencies:
+- ipykernel
+- jupyter
+- jupyterlab
+- nb_conda_kernels
+- python=3.11.7
+

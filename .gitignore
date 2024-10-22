@@ -1,0 +1,49 @@
+pkgs
+*/pkgs
+*/pkgs/
+*/pkgs/*
+
+envs
+*/envs
+*/envs/
+*/envs/*
+
+data
+*/data
+*/data/
+*/data/*
+
+model
+*/model
+*/model/
+*/model/*
+
+sample
+*/sample
+*/sample/
+*/sample/*
+
+# architecture
+# */architecture
+# */architecture/
+# */architecture/*
+
+twenty_seconds_of_face_extraction
+*/twenty_seconds_of_face_extraction
+*/twenty_seconds_of_face_extraction/
+*/twenty_seconds_of_face_extraction/*
+
+.ipynb_checkpoints
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
+
+# virtual_environment/*
+donotpush
+*/donotpush
+*/donotpush/
+*/donotpush/*
+
+
+*.csv
+*.zip
+*.png
